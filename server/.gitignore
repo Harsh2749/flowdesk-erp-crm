@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Production Build
+dist/
+
+# Environment Variables (Secrets & Database URL)
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
